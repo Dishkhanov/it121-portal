@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Fantasy');
 
 html {
-    background-color: lightgray;
+    background-color: rgb (153, 255, 204);
     font-family: 'Fantasy', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
@@ -14,9 +14,6 @@ html {
     background: #ff0;
 }
 
-body{
-    back-ground color: rgb (230, 255, 230)
-}
 h1 {
     font-weight: bolder;
     margin: auto;
