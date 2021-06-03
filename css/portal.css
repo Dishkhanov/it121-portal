@@ -28,7 +28,7 @@ main.wrapper {
 
 p {
     margin: 1em; /* Top Right Bottom Left (TRBL) */
-    font family: Courier New
+    font-family: "Lucida Console", "Courier New", monospace;
 }
 
 h2,h3 {
