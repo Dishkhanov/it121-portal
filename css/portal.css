@@ -31,6 +31,7 @@ p {
 }
 
 h2,h3 {
+    color: blue;
     font-weight: bold;
     margin-left: 1em;
     line-height: 1em;
